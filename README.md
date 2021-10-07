@@ -1,4 +1,4 @@
-lab_2
+US States COVID-19 Transmission Analysis
 ==============================
 
 The final project for MIDS w203: an exploration of the features that cause increased or decreased state-level COVID cases. 
@@ -29,4 +29,3 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
